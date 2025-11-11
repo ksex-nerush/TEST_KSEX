@@ -9,4 +9,4 @@ except ZeroDivisionError:
 else:
     print(f"Поделили и получилось: {result}")
 finally:
-    print("ВОТ И ВСЕ! ПОКА!")
+    print("ВОТ И ВСЕ! ЧАО!")
